@@ -5,7 +5,16 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">
+👋 Hi there! I'm Zeet Patel <br/>
+🧑‍💻 Front-end React Developer <br/>
+🎨 UI/UX Designer <br/>
+🚀 Passionate about sleek interfaces <br/>
+💻 Bringing ideas to life with code <br/>
+✨ Creating engaging user experiences <br/>
+🌟 Let's connect and build something awesome! <br/>
+#React #UIUX #Developer 
+</h2>
 
 ###
 
@@ -59,4 +68,5 @@
 </div>
 
 ###
-"# ZeetPatel2712" 
+
+"# ZeetPatel2712"
